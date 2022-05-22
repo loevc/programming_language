@@ -5,3 +5,7 @@ git push  <REMOTENAME> <LOCALBRANCHNAME>:<REMOTEBRANCHNAME>
 
 ctrl + R : Redo
 u : undo
+
+# push remote stream
+git push --set-upstream origin c
+
