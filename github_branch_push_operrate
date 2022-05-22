@@ -1,0 +1,7 @@
+command "ggdG" id delete all content
+
+to push the new branch to remote command line:
+git push  <REMOTENAME> <LOCALBRANCHNAME>:<REMOTEBRANCHNAME>
+
+ctrl + R : Redo
+u : undo
