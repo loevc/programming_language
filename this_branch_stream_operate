@@ -1,0 +1,3 @@
+git push origin java:java
+
+git branch --set-upstream-to=origin/java java
